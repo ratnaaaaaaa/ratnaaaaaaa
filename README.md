@@ -1,17 +1,23 @@
-<!-- PROFILE HEADER -->
+<!-- PROFILE BANNER -->
+
+<div align="center">
+  <img src="./profile_banner.png"
+       width="100%"
+       alt="Ratna Priya - Developer Profile Banner"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:4B0082,100:00C9FF&height=220&section=header&text=Ratna%20Priya&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=58&descSize=18" width="100%"/>
-
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=B58AFF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI+%26+ML+Enthusiast;Cloud+Computing+Explorer;Cybersecurity+Learner;Developer+%7C+Problem+Solver+%7C+Chess+Player" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=19&duration=3000&pause=1000&color=B58AFF&center=true&vCenter=true&width=680&lines=AI+%26+ML+Enthusiast;Cloud+Computing+Explorer;Cybersecurity+Learner;Developer+%7C+Problem+Solver+%7C+Chess+Player" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/ratnaaaaaaa">
-<img src="https://komarev.com/ghpvc/?username=ratnaaaaaaa&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=ratnaaaaaaa&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
 
 </div>
