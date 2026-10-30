@@ -144,21 +144,29 @@ Continuously experimenting with new ideas, exploring emerging technologies and b
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ratnaaaaaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=ratnaaaaaaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400"
+    alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnaaaaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ratnaaaaaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+    alt="Top Languages"/>
 
-<br/>
+  <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=ratnaaaaaaa&theme=tokyonight&hide_border=true" />
+  <img width="65%"
+    src="https://streak-stats.demolab.com?user=ratnaaaaaaa&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"/>
 
 </div>
 
 ---
+
 
 ## 🐍 Contribution Journey
 
